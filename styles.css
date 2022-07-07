@@ -68,3 +68,12 @@ section {
 .featured-products {
 	text-align: center;
 }
+
+main section {
+	display: flex;
+	justify-content: center;
+}
+
+main section div {
+	display: flex;
+}
