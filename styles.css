@@ -69,7 +69,7 @@ section {
 	text-align: center;
 }
 
-main section {
+main section div{
 	display: flex;
 	justify-content: center;
 }
