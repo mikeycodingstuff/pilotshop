@@ -1,3 +1,19 @@
 * {
 	box-sizing: border-box;
 }
+
+nav {
+	display: flex;
+	justify-content: center;
+}
+
+main {
+	display: flex;
+}
+
+section {
+	width: 1000px;
+	display: flex;
+	justify-content: space-between;
+}
+
