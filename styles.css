@@ -7,8 +7,14 @@ nav {
 	justify-content: center;
 }
 
+header {
+	display: flex;
+	justify-content: center;
+}
+
 main {
 	display: flex;
+	justify-content: center;
 }
 
 .top-nav {
@@ -23,4 +29,31 @@ main {
 
 section {
 	width: 1000px;
+}
+
+.main-banner div{
+	text-align: center;
+}
+
+.product-categories {
+	display: flex;
+	justify-content: center;
+	color: #ffffff;
+	
+}
+
+.headsets {
+	background-color: #3b3b3b;
+}
+
+.flying {
+	background-color: #3386b4;
+}
+
+.gps {
+	background-color: #4dafd9;
+}
+
+.featured-products {
+	text-align: center;
 }
