@@ -22,6 +22,10 @@ main {
 	justify-content: space-between;
 }
 
+.top-nav-links {
+	display: flex;
+}
+
 .second-nav {
 	display: flex;
 	justify-content: space-between;
@@ -39,7 +43,14 @@ section {
 	display: flex;
 	justify-content: center;
 	color: #ffffff;
-	
+}
+
+.product-categories div {
+	width: 450px;
+	height: 200px;
+	margin: 15px;;
+	text-align: left;
+	padding: 30px 30px;
 }
 
 .headsets {
