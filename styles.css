@@ -11,9 +11,16 @@ main {
 	display: flex;
 }
 
-section {
-	width: 1000px;
+.top-nav {
 	display: flex;
 	justify-content: space-between;
 }
 
+.second-nav {
+	display: flex;
+	justify-content: space-between;
+}
+
+section {
+	width: 1000px;
+}
