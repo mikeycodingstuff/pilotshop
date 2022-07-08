@@ -122,6 +122,10 @@ a {
 }
 
 @media screen and (max-width: 1000px) {
+	section {
+		width: 700px;
+	}
+	
 	.second-nav-links {
 		display: none;
 	}
@@ -143,5 +147,14 @@ a {
 	.first-row {
 		display: flex;
 		flex-direction: column;
+	}
+	
+	.second-row {
+		display: flex;
+		flex-direction: column;
+	}
+	
+	.product {
+		display: flex;
 	}
 }
