@@ -138,6 +138,24 @@ a {
 	display: none;
 }
 
+.account-section {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+}
+
+.usd-cart {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+}
+
+form {
+	display: flex;
+	justify-content:center;
+	align-items: center;
+}
+
 @media screen and (max-width: 1000px) {
 	
 	.second-nav-links {
