@@ -70,6 +70,12 @@ section {
 	text-align: center;
 }
 
+.product-categories-container {
+	display: flex;
+	justify-content: center;
+	margin: -80px;
+}
+
 .product-categories {
 	display: flex;
 	justify-content: center;
@@ -78,8 +84,8 @@ section {
 }
 
 .product-categories div {
-	width: 350px;
-	height: 200px;
+	width: 250px;
+	height: 180px;
 	margin: 15px;;
 	text-align: left;
 	padding: 30px 30px;
