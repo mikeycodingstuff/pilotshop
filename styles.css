@@ -38,6 +38,10 @@ main {
 	display: flex;
 }
 
+.top-nav-links a {
+	padding: 0 5px;
+}
+
 .second-nav {
 	display: flex;
 	justify-content: space-between;
