@@ -163,7 +163,8 @@ form {
 		display: none;
 	}
 	
-	.top-nav :nth-child(1) { order: 2;}
+	.account-section:nth-of-type(1) { order: 2; }
+	.usd:nth-of-type(1) { order: 2; }
 	
 	.second-nav-links {
 		display: none;
