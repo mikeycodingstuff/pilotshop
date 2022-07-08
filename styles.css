@@ -52,7 +52,7 @@ main {
 }
 
 section {
-	width: 1000px;
+	width: 2000px;
 }
 
 .main-banner div{
@@ -62,11 +62,12 @@ section {
 .product-categories {
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 	color: #ffffff;
 }
 
 .product-categories div {
-	width: 450px;
+	width: 350px;
 	height: 200px;
 	margin: 15px;;
 	text-align: left;
