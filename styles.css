@@ -47,6 +47,10 @@ main {
 	justify-content: space-between;
 }
 
+.second-nav-links a {
+	padding: 0 5px;
+}
+
 section {
 	width: 1000px;
 }
