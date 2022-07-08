@@ -7,6 +7,15 @@ nav {
 	justify-content: center;
 }
 
+.nav-one {
+	padding: 20px;
+	background-color: #f8f8f8;
+}
+
+.nav-two {
+	padding: 30px;
+}
+
 header {
 	display: flex;
 	justify-content: center;
@@ -74,6 +83,11 @@ section {
 main section div{
 	display: flex;
 	justify-content: center;
+}
+
+a {
+	text-decoration: none;
+	color: #3b3442;
 }
 
 .product a{
