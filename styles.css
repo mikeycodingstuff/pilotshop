@@ -163,6 +163,14 @@ form {
 		display: none;
 	}
 	
+	.account-section {
+		width: 100%;
+	}
+	
+	.top-nav-links {
+		flex-wrap: wrap;
+	}
+	
 	.account-section:nth-of-type(1) { order: 2; }
 	.usd:nth-of-type(1) { order: 2; }
 	
