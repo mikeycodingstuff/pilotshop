@@ -52,7 +52,7 @@ main {
 }
 
 section {
-	width: 2000px;
+	width: 85%;
 }
 
 .main-banner div{
@@ -122,9 +122,6 @@ a {
 }
 
 @media screen and (max-width: 1000px) {
-	section {
-		width: 700px;
-	}
 	
 	.second-nav-links {
 		display: none;
