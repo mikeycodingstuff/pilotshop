@@ -13,6 +13,7 @@ nav {
 
 .nav-one {
 	background-color: #f8f8f8;
+	padding: 5px;
 }
 
 .nav-two {
@@ -142,7 +143,7 @@ a {
 	display: flex;
 	justify-content:center;
 	align-items: center;
-	margin: 20px;
+	margin: 10px;
 }
 
 .usd-cart {
