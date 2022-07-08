@@ -111,3 +111,14 @@ a {
 	height: 270px;
 	background-color: #f8f8f8;
 }
+
+@media screen and (max-width: 1000px) {
+	.second-nav-links {
+		display: none;
+	}
+	
+	.second-nav {
+		display: flex;
+		justify-content: center;
+	}
+}
