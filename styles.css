@@ -128,10 +128,11 @@ a {
 	width: 200px;
 	height: 270px;
 	background-color: #f8f8f8;
-	margin: 30px 10px;
+
 }
 .product p {
 	width: 200px;
+	margin: 30px 10px;
 }
 
 .dropdown {
@@ -157,6 +158,12 @@ form {
 }
 
 @media screen and (max-width: 1000px) {
+	
+	.phone-number {
+		display: none;
+	}
+	
+	.top-nav :nth-child(1) { order: 2;}
 	
 	.second-nav-links {
 		display: none;
