@@ -157,6 +157,11 @@ form {
 	align-items: center;
 }
 
+.new-top-nav {
+	display: flex;
+	justify-content: center;
+}
+
 @media screen and (max-width: 1000px) {
 	
 	.phone-number {
@@ -165,6 +170,10 @@ form {
 	
 	.account-section {
 		width: 100%;
+	}
+	.new-top-nav {
+		width: 100%;
+		justify-content: space-between;
 	}
 	
 	.top-nav-links {
