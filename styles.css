@@ -80,7 +80,12 @@ section {
 	font-size: 19px;
 }
 
-main section div{
+main section div.first-row{
+	display: flex;
+	justify-content: center;
+}
+
+main section div.second-row{
 	display: flex;
 	justify-content: center;
 }
