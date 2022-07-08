@@ -112,6 +112,9 @@ a {
 	height: 270px;
 	background-color: #f8f8f8;
 }
+.product p {
+	width: 200px;
+}
 
 .dropdown {
 	display: none;
