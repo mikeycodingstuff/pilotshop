@@ -20,6 +20,10 @@ nav {
 	padding: 30px;
 }
 
+nav input {
+	padding: 6px;
+}
+
 header {
 	display: flex;
 	justify-content: center;
@@ -36,10 +40,12 @@ main {
 .top-nav {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
 
 .top-nav-links {
 	display: flex;
+	align-items: center;
 }
 
 .top-nav-links a {
