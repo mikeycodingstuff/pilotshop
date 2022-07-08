@@ -74,4 +74,6 @@ main section div{
 	justify-content: center;
 }
 
-
+.product a{
+	background-color: #f8f8f8;
+}
